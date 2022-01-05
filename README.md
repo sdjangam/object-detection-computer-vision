@@ -1,4 +1,4 @@
 # object-detection-computer-vision
 
 
-Computer vision
+Computer visions
